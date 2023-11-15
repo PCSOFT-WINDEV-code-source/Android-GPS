@@ -1,0 +1,348 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_PRINCIPALE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_PRINCIPALE
+ identifier : 0x2bf4f9a603863e89
+ internal_properties : CAAAAAgAAABEs28yx1MLguWvi4CJ45ZJNTfbh+ZfJGEbEd/yux6vrEv0UPzZtfBc++lAmBaOJi05DBvQ9nxXBidzz77LVvpEqKb21JWTWvC6Wg3Ng86AaMChnEq/mP+tX6+eVoG/7b+pGfUdfckHhQSNK4wBPnPjEfwUoeNwksB3wGfw4gQabqGXhQdRf2/l/PluA+ZnuA5qFjB52L3cB07WX9/dISbBkLWFCj5X91XY1r59FPQPbYezY+tZwolpEscUCKKB9u5FZ0lkSlQRGX0BG1B9wcFUC5ARIiFsVbFcYD9LXFrZHujrzzqN/rOQboDZMTSOQk1abikvLx4FMTsee6CURhvIAhmqsfBf9Y3TnR9fdCfNksT71iDSIvwn1RuN70+57hJh62tkaizfu7Ig68fInVoFjJ8otZrM46PfXo5Gxt82y1wGydWSNDDECcAvxdeDIPMNW6IWsHH6RQeZE9cUyPzJB/b8aFoUv5BSDd3MaO+aGj4bVz6RGEWQ9eYkhEQT5T4z1hHoVnbHVH7r4AclXQ7X19jFqJnmL674c5xJ7EFlY3G8AZWsHEr77Gsf59wH4qEjHiH1OLJh8sN2LmhwyMqO6UGd0ZElYCqPjkz33XJL8T9guaW77XHTo1KcIpfsGmXD5ppp3K469QsK0F+yvCkEgH/xPfBN9XNJpPEwuRwKKNUsQsrrAEeqthY1ILl/8yJfTkgPxCYzT/y6x/0ALdw8ofTgzChiidCc+mrqyAW4j+St1Va5pctzx7ltR2y5Zfkeb/MgCasYj4nhW+IRnaTZEZuTA9HbHlti/SXNiChrqA==
+ properties :
+  width : 319
+  height : 270
+  heightMin : 320
+ controls :
+  -
+    name : LIB_Etat
+    identifier : 0x2bf4fbc203ec7b0e
+    internal_properties : CAAAAAgAAAAoRGdxZ1/QhqsxLYhSK3Dkr4Dp+9/vaflDJJWt7zbwJ8sFoNrXYyPuhSlHqp9qye73ci54TTNfd1DEvPitTAz7THJam6dJvHsZunZK4AfMu8AQoUi8Dm/8WSUglJlE2u5oWn9T4bltVZEJoiJNaboaeqhL/uDVb522z+6zxJ7LmhBmP2+/H1RnX+k5sHBDu3KeiaBA4bzqIMuor5G90gdiMiAzEaSysgfI3RHiOfxVaIzlpYeAt6RvXjIoK0p9z6BXJu3Y8T4V+U2uf4FTi6jMDOji4yqgGwBhGDLO17qORCVPt1EZHVXQYnQ2O1qf1WkwDEuNXX9Wq1HdKX3egbrovAveXRXc2IoyYmRGmIQwuMZcICnR4JBFeLBq7gkaxS6eJ8fXUiPMe9ZGTKgz1cMcQtPZP16ZM0Zpc1Lom/q2B/MDXsT2kY5wFVubQr6puIgM/qfiP1DoX7Q6HFog/OJ8CzdWEHn7LiFiNj1N6mll8LaFPl8wcWtTZ4zzUbE=
+    properties :
+     x : 8
+     y : 8
+     width : 316
+     height : 50
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Latitude
+    identifier : 0x2bf4fc6b04360d13
+    internal_properties : CAAAAAgAAADTl6CsYlzRs4zEbNsTjlfRBMlwdOImOKiKHdHf+ZyCGzjVkH7bx4fO6Vlzm+SNleOBT7g4TgBGxWLagPgjWEz5qqiWYFGgyE2qp05K+As0s9AEhYhMHpdIAZhjNGm0al7Y+i8j4SntFTE5gjINaVoaOthrvrC1Xy3Gz/5zdK5bCqAmzx8/bzQH33k5gDBDm3KeeWDgUXz6ENtoH1FtQlfS4sBj4eRC0idIrdES2byViKy1BYcQ97RfDtIYixrNZ8i/XsUQyUbdkcXWx0lrY+CUdMDa20Joo/h5YJq273JmjK0nz8lxpR3oelzeAzIXbfG4hMNlVQfeo6nlMUWWGTJw5MN21Y2EgMJqKmxu0JwooC50mCEJSDjdkBjSVqFy/dZm/ztlxLVijSScKpYlz8kaWNmrBoJLEeN269RucVRSxUEjYFoYT08k6DaYhgZYpwJ/VDmIkSL+gepgymgx1Qsh7mI5BX7mG5yJbazyO2TgacnQLYD9WFxOYreunsY=
+    properties :
+     x : 8
+     y : 60
+     width : 274
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Longitude
+    identifier : 0x2bf4fc8a04418958
+    internal_properties : CAAAAAgAAADmip2rbQrh49B+xhfHIpdz6t/cEt8/IcHz5HxSXmeVVMYilj8cmKTSoN6wuvLVlGu8H7WNwlUwop1sdLeg5ZD6TdPlDGO1MboGpSmZdfaPDNG1xAl936S9FlJOnLnoeoyUtK8hZR+hSSUDhB4ZsXJsnuprnKCHG5lutZwXWMZHEKD05y1/JWjXjz8LoNinD3zqG2SCpfq6UKO2ReklgquQNnoTV3zIii/IM/fWxZQh5sgHpVX43RgjVsgm00p9yKleLejD+j8cXPCbdIwE+FV5Ww+x8heF/nvsHc9hoK+jSejadvBm0khL6XU3DhMM5mpzLw60AlQhahAe0pAHjseFg5KtBFrx881hU3V1LT35gQkv1wAuraP88zkz5UYbSqMVflb4F3otZj3lE928GBb1dS5gEIPuVtpulGO/QsHs65cpC5oQOdRRKiAw9QlejUtfuFViv9l/FBmvMow8uqxAhwu6BJ2nmg0O4G9j8LURGgCPeMvOiYt9XbKpm/s=
+    properties :
+     x : 8
+     y : 83
+     width : 274
+     height : 22
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Vitesse
+    identifier : 0x2bf4fc9f0446daa4
+    internal_properties : CAAAAAgAAACZf1jLrQrek+x28kT6q0/aSl6/RPzIuOKiZocvdpy8i/ODi5peEKy4sf/Yi9lEy2JB/tWsFrnMd0VU6uVQ7NoVltB+5GNsX6eN4JWz2vMhtUSPPwX0X+diz+hC5cwbg3zV2CkTmQi75WHOMmNxlWA9O/UtZHcnPqLY/lwyy4ZU5C6cGpwYwxLc3NUOYBhe52YUcmjlytj6wQaEK8+ZgoFvBZBQX1NB7wx32nbTNUjH2HNIQdAACfhmlGLK85P2QU52lHVQBnuQx6h7ePkGjcym1QYOMYuXXK6W/ds48lhi3uTT4RXatqy4R5mXhUsJ7U/BmlPnZPpr4X7ELAsjl7rGD/fkUYBnvSg/qWcM6+g68tMk9su8LXuZLfNpmHA4iZjbRX8hfWaJd50LpXhcM5cUyfnlgXGm1omrQFdmeSv9LhsnSEw1Bzm7qAebaXtpFuR3RxdhOr5K1bDWV3NffmaHiQs0+Asf8FLMmJOP3n07KdJcuNRDMI+zqQ==
+    properties :
+     x : 8
+     y : 120
+     width : 274
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Altitude
+    identifier : 0x2bf4fcab0457086b
+    internal_properties : CAAAAAgAAADZlVZmKDYvWSqazqFxbI2/ErdWfvg4Pq6IK3OVJ7rgwZbLZjBhAX0k/wc1N4p/m6lHiTqCHILkp/gMooahivr3sKpoMhcqFjkAxUgYljGqWa66ExrqyB3G75vD9Im0yt5gQifrCeGdVSkx+voF8eKSGmirHoCVh8VGT94jtC7benj+N7c3hzQHt8Gx6DhbU4qe+WBwQWwy2JsYn1GNckcSSvjLOZwqYpcgdbma0ZRNYFzFdQewh4xHrrKY20oNUyTTqrEspapBJanCO9X//zxwmHwGx04MRzyt3F5Ss74CKMFT2xUt6WFM/lgCP3azyV1cAG9RYQviV22htaE6JS5sKI+isalIRIbOdgBKhOhkbNKwpC3VnFwxJBT2MuWeSaIai6f/PjPkv3oisDj3vevI5n8xAISXTTOmwywKiehGzUmb9DY4a2scwFagYmY8S9p/ahcK84AQA3j+uIrDIzU/jJDf74DkHZ6PY5LUJYo6x6c2iyJfPka4mH3koMA=
+    properties :
+     x : 8
+     y : 143
+     width : 274
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Direction
+    identifier : 0x2bf4fcb9045e3e5f
+    internal_properties : CAAAAAgAAAC2FQBkO2cnAlDj6p/9jaP76IIdv1ZNLQHoYdpXOD15iUjglIYZwBxOJgtjQ9rs2vsBWbFWX+Y40qSkgKBBMb3IUIXv3mTl2XlWVwRJy7h9jAgziyqgUGrttocTHpn2abIOnJjmzF6oSkyBlNM+7s9wJOskzxhm5XiPXfsUYDU3PKTQsPixxfKQk2Zz1JTlzIumABofhTanNK9tRBatDkAr9joW30ZX1rAZ/KEF3Av5jwKMowgBIhfnnKGHjjPWjmhkrxROr0aW/7YEDjzDr+dIZwermyBqCJToJPU1ZRgNgBa0tq9By7A61aw9Bla7rH2NBUKJeTvb13KTfu6Iv50Y51p7PfnU+yTZjk8RqroR2A+BN19lAimFawYJxW/oTnbTKF5bHFFhyYfcAy/l2XwK+R6G/8R3nF2tGdtt84075zSybmxuu+/LdwDhDlfoYM82HZaiL1bByjOYg9EBh89r/U9lqPiUl4UEE4bNzAW1O1/WnmkGgZavznltDk16
+    properties :
+     x : 8
+     y : 166
+     width : 274
+     height : 21
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : IMG_VALIDITE_VITESSE
+    identifier : 0x2bf4fce70498f1e1
+    internal_properties : CAAAAAgAAADi3afwxEonwp8t3uzKTKQwATSeoiK7DkoCKv0CzBVTbik/aKZe0q6krCT4IC9ljt9A3gvCpti6DDcw6uYb08Gw8XKGD5QiKFDEllbMnxHAcII3rv1tsVBjbpGSp5GdzocmVi5DLycJK1HReeyX9OyQSnI2c95aHwlZjZnoy3+dP1giQnVjYjjPbBPdR0HFX+Hf4fG+KsKmlLWmBV+KaJTu21meHe3PM0XVFD66TuiRpYp3UeNyEb4twh4NYAspRa1JPu+N9j+Q9sB9TZlITJNjjEmXnWzQ20DicRBSfgFPfkD42ybnYVDARQWIszYU7yrRot2VjOBYyWdMH+4fqi7ExdtVMGDS41m5buUqEUWCe37oocxiROkWqfI8nG7byzmLuQp61KAZJp8ydIGw2DBgjAWWF2Z8Dzv1SZmzfLUbEXFE3TvvRRmbhmAne8US+XcY5yXBINQR0oCi6YckGW5E4SYvnyKyEdtgl8Z5p3kv0c94Js7HHT0FcNwWc1yvfGmm1NXcWqqdpKLi1OTZnMBXZjBSg+RIXsejcjz5e9SAagVtxw+LwU9G0SLCgFVvb9S9ezsk60ZIxYSoLO+hDchOKbshVVObDM46b61p7cnpZexeQ9CnCLDKwuGbBWkwDcf/3e50cX1KZahQlJHQnl6WqdpQsB7WwuoNT5/PD9z6g/AaYsppB8akKnHhfWdFDn6j5VJ1e7ujs5965ao2xKRJW2L89SDS+xh94iWEbF7IgiAfMKeWsplSJoNg+YziHIdgtX66819FzCL7t3+/hpJNlPuaL4f6Ww5AqOH1nWngazOlwsJ/zxg/AOg=
+    properties :
+     x : 284
+     y : 120
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_VALIDITE_ALTITUDE
+    identifier : 0x2bf4fce804a2f5b9
+    internal_properties : CAAAAAgAAADyrbdgVPqXsu8d7tzaHNQAUUTuEnIr/jqS+m1SvMXjntkvmPbOon70HLTocJ/V3s+wzjsS1qgKXOdA2jaLQ9EgoeJ2n0TyOOB0Zsacj0HQ4HLn3g2dASCz3iGCdzlt3rfWRt6TX3eZO0Eh6TyH5PwAOuJmA04q79kJHQk4O2Xa+3gIWN+BwFplZCl/eT/7Qx0fX3eEnNx0ZmEweyVskujas38EUw/pISNh9gTIvB4FmYrFexHwd+gP3rhbJrWjKWHt6CGfzMWqrPDj2zMq9mvLEAPRMzq27TpaJ76opP93jiR68TSZc3Zi+Zd6zaC2J2L5uGNPyvZaV3+yHcQxnNoYddmPTvqMiQdJrB+Q1zO6g9pq12KcTqdfORIM+I7Dy1G3sdrmrBhZypua9DWYMEB4UEVWS26qsR1Xx9txNuttg8sy72mZowOdwA7xMac4Y/laeQ6oSeMYIy3xpnLBNBUZWpGUMg+NfESdzuP0NIyClpS354WIrExCrWvjvvE669o3Z3K/Z6WQuXtdXQMqK8NkGw+byk3HUcCsRWUQTOvLE4aQ1EowRNLz7nH/c1Jq6uEGzmA3UPmPmlVrZSbq1HPr4v5GsIC2J3vHtrpk4oT0Mt1JcGOcE0uvN2AYMKb7mLRgoBNflmAt3imjRYfATm7mmcoAQA4mEnpd3+8/v0zKk2CKktrZl1b0uoGxLde1Xo5TFULFq0szg+/K9dpmdLQZC5LsRdBii+jNcvX0nE6YktBPIPdGwqkittNwaTwSrFdQpS7KYy+V3HLLR2+v9uLdBGsKv/dKq94Q+LElzVnweyOVMlLvX6hPEPg=
+    properties :
+     x : 284
+     y : 143
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_VALIDITE_DIRECTION
+    identifier : 0x2bf4fce904acf8e5
+    internal_properties : CAAAAAgAAACmkXu0OI5b/qNR8rDucHgMXVDqHm7Hun6uFtmuKOHPct0jnOoSllLQ4NicBMNJIgusqof+oqS2gAMstpLXH43k1ZYKE7jG/Cwo6rpgc3X0DG6jmkmJXTzHyn2OQ3HrRKUEbHhNDQ1viRt/p859KqJGIDBwrTxQ1TerY+dKqZNYcR7uwkk/NjC7Rs8dm12p+YsVjcEuCgqqvLOWwR9K4C7o0VVm/Q3vHykzdJpCOsybHwDDteu2BeZdEH6ZeHOhp3cDRhMZusMAWgo5mV04/JGJpvELtWi0M5C0jVySYj0ttDKww25/ISSIM51w96bE3cDHts1RECzQVQnIO/Y3kuCu89cRqMiKx8WTetUqpQHYOQiw+RzaROUngNZM+A6TIReFtY7eEMzBxm0OSOHknPZG7mn+txZFyAqYdmxg004AEPjlILh+lnI6vRlOnMjnkopnc7ZIpb98TwUdtnLNOBnJikUsUuvJKIjd8oMEMIAGBuQrP+Uc0GgGLffTjoVWF0Kfw9LH0xGE7bvh/TN29w88q5NT2jHb9byk4U1omHeXK0Y0LKLUmK4HvnU3i6Y+riHGAgiX/BWbzsVvZTbG4G/zytrGMPQ6K+d/MuK8LkDguu1tuJNAVw9LT9zYQKI/nHQg5IsvamQp2tEHPY/MWlrO6b5o6IpCPmaFqwe3I6Duo5BumsJtC8pY6oXRTTuZMiJHAXZRH99P38tWwRZaoMBl94aYaTz+r0yhxhkI6NLcllTLZPPaduUe8t/M1aD++ONcqWpO71u5QFav+7PrajbxuKfOe0s+p9oc9L3RsUWMl9/J/gY7C1yDRKw=
+    properties :
+     x : 284
+     y : 166
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_OK
+    identifier : 0x2bf4fefe07bb1b2c
+    internal_properties : CAAAAAgAAAC5Ij00A3UKJYY8Q/fJnNgPY7JQ7LpRhc3lLXfcl60Vd5ROQZOaTxbzJ0RiFNfVyn7pFRa4C4XWz2EsYe2ZlpMTKI9v8Sd7CfNrbUAhETDVzx/3fMDdIe4Qs5fxeeTBaQ7gNpnly9HC8epFYYnet6RPD9AP2kECSiUeKh7lFEzOVatTMTTjUppe7qErYFCfY3aClrHJk4bJ9xC3XAaN5zlzVfZoJxRCabIaLKC1ezSxLq0yay0KMVdp7VhJe44aNkdTkfkhFUPCDgW+z4RNbNOZ9UT5ASQCcD49A2/dZtVhtJcFrG8FCYEmEBwGZyqmAZToM5lOI4NOXwvqdLT+3BB3srYCHoywGqSSWSQ1inCUiRYO2erQSpaDz55NMgvON1hmF4TTlpPE6ah1HRR7NgO5nBkrGlLO0AbbhnSMpKAY/10W4bjI8uQMOMVkJL/Eb2Tv1j6XyT9i9mMfinBN7de/YmNcmNDwXpJwj56qEKG+vr0PZUylkCAvpd4LuMkZm7xGNVUqpoQ0i/8vBYseE/Io5Sv/69VtddIcO82zON0FxRb59y80NaWwc84EVCgCJpljwhAwJGiUN/3JiuxFdT3fMA07tk3a3ljWJoU9DDTiW5AKEu5UY7W49t0ZIw44exU4F6YQRJSqguS3SWcpmk/j45UbZd10inV1/9h0qhQWPKiHFAESuCYKvgtl/SkGGblhFwuZ1Eejryxn1D2e9R0R//ynUcgvOAbvM1jVNfDMGsN1s+vSswxc3y8nBESFpoKRpcVcb0ffCWFP1Q0lQaE4txIyZ4bWsLE=
+    properties :
+     x : 6
+     y : -114
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_PASOK
+    identifier : 0x2bf4fefe07bf1b2c
+    internal_properties : CAAAAAgAAAA8YZMQax3+WjvBcl+N3Fw8ieJ2D68QOyDcSMyGKEk8YdgIc/9UZ03OuYEbxn6os+yMhjlpZYEukLIRJoH3sb/BKNL+2JDvCZ90PD3Z5iThsx4YlDlfAXhmHPswgS3WADJofjljKbT3ZUVQSqp67PdWjrMfTBSA3C8k3HUUxh80pEiqEzlYEOXS0Z23XYth0wrT36bYHTrwEQdbE4LsvsYSQBIS3QbNlPmUA+tc99Iw06Yf4iOyHpLapTNEI4W2J49e2EdiQAjFftIJQZDvtr2E4EnBhcHlNgP1TmpAJ2H01WvN6q6z6cOG+LVPRfrD7xE3cKyrPsCGPr5RUy1KCTle4c1BOBL/jm6Md47xVvL31WCKPQAnzFDIzBmU7aI4DODnkpkj+eWuPNp7YPQTmnkIimMqtpjLLoB8l4plUPSrxGpFUHrT1x1KPDZy2BeBWR8OzCEt0kgLGhNHBl4nkUnEl3aR6WMBhu8MHKswnTnp9WTxfPS7H9zGXSJqFGeQ/fv3htTU2kOoQzWHfm08AuPgjbmQxoFojRjSsm26k5aUvttToARQwawyYch5XAG/Xrjn0aImdE/uGSYmy6ZtmUQFV7WETQZ5Mi/N92n+OcawQlDBnu10n+VcR1FL0sH/sV1Ngynq/54nNKLEc2yRKp2kqbkAB9jFTqM247E0oe9l3wA07tK/nlG45fx1P/+jSYbzSMIDSZ5ReGjIxXNfa4D4P7zussjQxSG6zwXBM5YcdhEKx+SkgtyT1n4YZfz0MVmEm0qhxaK7/Az7w/3JGlN3QV65fKuRMfxn33rnOSlD
+    properties :
+     x : 6
+     y : -91
+     width : 21
+     height : 21
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : LIB_Dernière_mise_à_jour
+    identifier : 0x2bf4ffaa093ebe58
+    internal_properties : CAAAAAgAAACDJPv/6kHm2g8O9RFBKSCKqfsTl8FeRu6PAEkRUbDg57apr4JUdtHkHFMG8aDiFpNFmmPEXNIU9watNZVHhPbbL91j1MlPEiFL88G6Tf+bulLwsrwq/BNbmrtqxNWhNd+ZtWfPjRr/mFyoWlquW3yWhC6f9mQoxsczeEPUicfvBRhs7z+lexa+KLL3bJdP+GNUQXZr0eHK4IP/MhwNHjiA51d4uAuuEYhlcJX/yTxUHDoyFDLGPxutPh7rvajMgomv0N+HdOYOLS2NRXGTKIkEPDleWPy08eZbMibDiwvnMkblij/S44UoA21xnsohm4Xq9gq29YnhqXQr/K39B7L0/UY7Dt2sZpiTguE25S3q1eRnRO5wlPfAoP83iu8uSXKuq0VensoELW7MMntQFgASEDQ2a1ydq8hJ5Tiv+JQvwkGE/yuzaAuU9SzkMBjI8ViNBcy2i+ORvcSneBtOg/w1S1iPAy/E/D916QkLXe66J3IFgP+a3phr/0hW1VTzKQ6s6qYHdz5CPrSp2OPw4fmqxxa6ECQ=
+    properties :
+     x : 8
+     y : 206
+     width : 316
+     height : 60
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x2af05ae62691eeec
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAbDI0/ao50HAZ1q6tClobpz7G4x9O55UDEuiICYPTZz6G+IwG2KItPeanOHXQXlaxqdp651nAno6OW5Km8Aaa63+F2QFdCPtKyFj58DTJe4UdoOAk7KKmModJa
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAABfGQ6F0ZOdIqvAy64Ai3iJZ7EkcMgR45+rFpcs9NE3j5XgxtTzPAGhHP9P0PzK3S67DkJ8IFj8ztyTwteOUiA642v+DWtGyqoCxLx2hATK0PFDoqXoPWhp7tafNj0rmQoLL6l7WCz6PjCCo/g=
+     code : |1+
+      
+      gnEtatActuel est un entier
+      
+      // Initialisation du GPS
+      // On passe par le fournisseur le plus adapté (satellite ou triangulation)
+      // On veut l'altitude, la vitesse à une précision élevée, et en demandant une quantité élevée de batterie)
+      GPSInitParamètre(gpsAuto,gpsAltitude+gpsDirection+gpsVitesse+gpsPrécisionElevée+gpsEnergieElevée)
+      
+      // Est ce que le GPS est actif ?
+      si gpsetat() <> gpsActivé ALORS
+      	erreur("Le GPS n'est pas en état de fonctionner.","Veuillez l'activer pour avoir accès à cette application.")
+      sinon
+      	_ChangementEtatGPS(gpsetat())
+      FIN
+      
+      
+      // On branche un procédure callback pour être appelé lors d'un changement d'état du GPS
+      GPSEtat(_ChangementEtatGPS)
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      // Termine l'utilisation des fonctions GPS
+      GPSTermine()
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     code : |1-
+      
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+  procedures :
+   -
+     name : _ChangementEtatGPS
+     procedure_id : 2014511348871533330
+     type_code : 14
+     code : |1+
+      // Résumé : <indiquez ici ce que fait la procédure>
+      // Syntaxe :
+      //_ChangementEtatGPS (<nEtat>)
+      //
+      // Paramètres :
+      // 	nEtat : <indiquez ici le rôle de nEtat>
+      // Valeur de retour :
+      // 	Aucune
+      //
+      // Exemple :
+      // Indiquez ici un exemple d'utilisation.
+      //
+      PROCEDURE _ChangementEtatGPS(nEtat)
+      
+      // Ignore l'appel si l'état n'a pas été modifié
+      si gnEtatActuel = nEtat ALORS
+      	retour
+      fin
+      
+      // Mémorise l'état en cours
+      gnEtatActuel = nEtat
+      
+      
+      selon nEtat
+      	cas gpsActivé // le fournisseur a été activé par l’utilisateur.
+      		LIB_Etat = "GPS Activé"
+      		// Demande à suivre le déplacement avec un temps maximum entre deux appels de 
+      		GPSSuitDéplacement(_RécupèrePosition,1000)
+      	CAS gpsDésactivé // le fournisseur a été désactivé par l’utilisateur.
+      		LIB_Etat = "GPS Désactivé"
+      	CAS gpsHorsService // le fournisseur est hors-service.
+      		LIB_Etat = "GPS hors-service"
+      	CAS gpsIndisponible // le fournisseur est temporairement indisponible.
+      		LIB_Etat = "GPS Indisponible"
+      	CAS gpsDisponible // le fournisseur est disponible.
+      		LIB_Etat = "GPS disponible"
+      		// Demande à suivre le déplacement avec un temps maximum entre deux appels de 
+      		GPSSuitDéplacement(_RécupèrePosition,1000)
+      FIN
+     type : 458752
+   -
+     name : _RécupèrePosition
+     procedure_id : 2014513440520700266
+     type_code : 14
+     code : |1-
+      // Résumé : Cette procédure est appelée automatiquement par la fonction WLangage GPSSuitDéplacement pour notifier de la nouvelle position
+      // Syntaxe :
+      //_RécupèrePosition (<MaPosition> est géoPosition)
+      //
+      // Paramètres :
+      //	MaPosition (géoPosition) : La nouvelle position fournie par le GPS
+      
+      PROCEDURE _RécupèrePosition(MaPosition est un géoPosition)
+      
+      // Mise à jour des informations sur la position
+      // Latitude et longitude
+      LIB_Latitude = chaineconstruit("Latitude : %1",MaPosition..Latitude)
+      LIB_Longitude = chaineconstruit("Longitude : %1",MaPosition..Longitude)
+      
+      // Vitesse
+      si MaPosition.VitesseValide ALORS
+      	LIB_Vitesse	= chaineconstruit("Vitesse : %1 m/s",MaPosition..Vitesse)
+      	IMG_VALIDITE_VITESSE = IMG_OK
+      sinon
+      	LIB_Vitesse	= "Vitesse : N/A"
+      	IMG_VALIDITE_VITESSE = IMG_PASOK
+      FIN
+      
+      // Altitude
+      SI MaPosition.AltitudeValide ALORS
+      	LIB_Altitude	= ChaîneConstruit("Altitude : %1 m",MaPosition..Altitude)
+      	IMG_VALIDITE_ALTITUDE = IMG_OK
+      SINON
+      	LIB_Altitude	= "Altitude : N/A"
+      	IMG_VALIDITE_ALTITUDE = IMG_PASOK
+      FIN
+      
+      // Direction
+      SI MaPosition.DirectionValide ALORS
+      	LIB_Direction	= ChaîneConstruit("Direction : %1 ° E",MaPosition..Direction)
+      	IMG_VALIDITE_DIRECTION = IMG_OK
+      SINON
+      	LIB_DIRECTION	= "Direction : N/A"
+      	IMG_VALIDITE_DIRECTION = IMG_PASOK
+      FIN
+      
+      LIB_Dernière_mise_à_jour = ChaîneConstruit("Dernière mise à jour le %1 à %2.",dateverschaine(MaPosition.datemesure..PartieDate),heureverschaine(MaPosition.datemesure..PartieHeure))
+      LIB_Dernière_mise_à_jour..Visible = vrai
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADeQcze1Ixqfwn6yOfjwsQ7IKxuiqMzbTygTLeVXFH8DB0WqXgSKvkzRoO0/Z27dfrh8D+BLYmMenjdtZezotw6hJf2mE4Gv6OctA==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x114a018e00f0d844
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
